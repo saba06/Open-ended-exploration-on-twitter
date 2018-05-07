@@ -1,0 +1,10 @@
+In this project we analysis communities formed around some prominent and influential people
+form politics,,journilist/media,entertainment/telivision industry in twitter and the people
+they follow on twitter (friends).
+
+analysis on clustering:
+we have used girvan newman algorithm to find communities.
+
+analysis on classification:
+we select gender as dimension for classification and find the number of male
+and female members of community. we classify using names form census data of 1990 (http://www2.census.gov/topics/genealogy/1990surnames/)
